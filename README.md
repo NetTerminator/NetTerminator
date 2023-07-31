@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 - Here. I'll make it a bit easier for you.
 
   - React
+  - Azure
   - C#
   - Java
   - Cyber
